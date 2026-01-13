@@ -1,5 +1,12 @@
 first commit
+
 main line commit +1
 main line commit +2
 
+<<<<<<< HEAD
 main line commit +3
+=======
+new one commit
+modification in newOne
+
+>>>>>>> testmerge
